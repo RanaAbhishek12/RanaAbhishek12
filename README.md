@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning ...Ai and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Through linkedin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-RanaAbhishek12/RanaAbhishek12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😄 Pronouns: ...he/him
+- ⚡ Fun fact: ...The term 'bug' in computer science originated in 1947 when Grace Hopper, a computer scientist, found a moth trapped in a relay of the Harvard Mark II computer. She taped the moth to the logbook and noted, 'First actual case of bug being
+- found .
